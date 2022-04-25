@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @NatoDeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in HTML, CSS, PHP, JS
+- 🌱 I’m currently learning C, C++, MySQL
+- 📫 contact: 
+-    ig @rentrodrigues
+-    number +5581988299332
 
 <!---
 NatoDeveloper/NatoDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
